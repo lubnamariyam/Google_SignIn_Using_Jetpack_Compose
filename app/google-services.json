@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845433960617",
+    "project_id": "signinusingcompose",
+    "storage_bucket": "signinusingcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845433960617:android:445019cb3a4d26c7f051b8",
+        "android_client_info": {
+          "package_name": "com.lubnamariyam.googlesigninusingcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845433960617-o2uh71f1lih8h0dkqmugfg20varphdng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujWnYnL5z-Kyt1OwT9jE7wkZKNuiKhf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845433960617-o2uh71f1lih8h0dkqmugfg20varphdng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
